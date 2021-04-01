@@ -2,7 +2,7 @@
 <img src=https://i.ibb.co/fkXKKHH/dnsnew.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/denisputraa">
+<a href="https://github.com/AdiiAndre">
 </p>
 
   
@@ -13,22 +13,24 @@
     <img
         src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-
+## My Website
+```bash
+> https://linktr.ee/WhBotOfficial
+```
 
 ## Clone This Project
 
 ```bash
-> git clone https://github.com/denisputraa/dnsbot
+> git clone https://github.com/AdiiAndre/dnsbot
 ```
-
 ```bash
 > cd dnsbot
 > bash install.sh
 ```
 
-### Usage
+### Run
 ```bash
-> node index.js
+> node index.js / npm start
 ```
 
 
