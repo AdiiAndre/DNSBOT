@@ -63,20 +63,20 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:デ ニ ス\n'
+            + 'FN: Adii\n'
             + 'ORG:Owner Dns Bot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285866295942:+62 858-66295-942\n'
+            + 'TEL;type=CELL;type=VOICE;waid=60199782326:+60199782326\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Caca Cans\n'
+            + 'FN:Adul Alhy\n'
             + 'ORG:Co Owner Dns Bot;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6285876210829:+62 858-76210-829\n'
             + 'END:VCARD'
 
 prefix = "#"
-name = "DNS BOT"
+name = "Wh-Bot"
 rdaftar = "@denssptraa"
 rmenu = "@denssptraa"
 botinfo = "@denssptraa"
@@ -396,12 +396,12 @@ denz.sendMessage(from, hasil, text, {quoted: { key: { fromMe: false, participant
 				case 'menu':
 			if (isBanned) return reply(mess.only.benned)
 			if (!isUser) return reply(mess.only.userB)
-				dmenu = `╓───「 *_ᴅɴꜱ ʙᴏᴛ_* 」
-║wa.me/6285866295942
+				dmenu = `╓───「 *_TIME : ${time}_* 」
+
 ╙───々
 ╓───「 *_ʙᴏᴛ ɪɴғᴏ_* 」
-║❏ ᴄʀᴇᴀᴛᴏʀ: ғxᴄ7 ғᴀʀʜᴀɴ
-║❏ ʀᴇᴄᴏᴅᴇ ʙʏ: ᴅɴꜱ ᴛᴇᴀᴍ
+║❏ ᴄʀᴇᴀᴛᴏʀ: adii dan adul
+║❏ ʀᴇᴄᴏᴅᴇ ʙʏ: Wh-Bot Teams
 ║❏ ᴘʀᴇғɪx: ${prefix}
 ║❏ ᴜꜱᴇʀ ᴛᴇʀᴅᴀғᴛᴀʀ: ${user.length}
 ╙───々
