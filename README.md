@@ -30,7 +30,22 @@
 ```bash
 > node index.js / npm start
 ```
+#Cara instal di Windows/Rdp/Vps
+```bash
+pastikan ada 
+NodeJs [`Here`](https://nodejs.com)
+Ffmpeg (dont forget to path) [`Here`](https://ffmpeg.org)
+Imagemagick [`Here`](https://imagemagick.com)
+Git [`Here`](https://git.com)
 
+### Buka Cmd dan ketik ini
+> git clone https://github.com/AdiiAndre/Wh-BotXDnsBOT
+> cd Wh-BotXDnsBOT
+> npm install sharp
+> npm install
+
+## Run
+> npm start
 
 ## Special Thanks To
 * [`Fxc7`](https://github.com/Fxc7)
