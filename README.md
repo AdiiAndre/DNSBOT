@@ -31,14 +31,12 @@
 > node index.js / npm start
 ```
 
-##Cara instal di Windows/Rdp/Vps
-```bash
+## Cara instal di Windows/Rdp/Vps
 pastikan ada 
 NodeJs * [`Here`](https://nodejs.com)
 Ffmpeg (dont forget to path) * [`Here`](https://ffmpeg.org)
 Imagemagick * [`Here`](https://imagemagick.com)
 Git * [`Here`](https://git.com)
-```
 
 ### Buka Cmd dan ketik ini
 ```bash
