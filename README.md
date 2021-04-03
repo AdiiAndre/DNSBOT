@@ -37,15 +37,20 @@ NodeJs [`Here`](https://nodejs.com)
 Ffmpeg (dont forget to path) [`Here`](https://ffmpeg.org)
 Imagemagick [`Here`](https://imagemagick.com)
 Git [`Here`](https://git.com)
+```
 
 ### Buka Cmd dan ketik ini
+```bash
 > git clone https://github.com/AdiiAndre/Wh-BotXDnsBOT
 > cd Wh-BotXDnsBOT
 > npm install sharp
 > npm install
+```
 
 ## Run
+```bash
 > npm start
+```
 
 ## Special Thanks To
 * [`Fxc7`](https://github.com/Fxc7)
