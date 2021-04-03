@@ -33,10 +33,14 @@
 
 ## Cara instal di Windows/Rdp/Vps
 pastikan ada 
-NodeJs * [`Here`](https://nodejs.com)
+NodeJs * [`Here`](https://nodejs.org)
+
 Ffmpeg (dont forget to path) * [`Here`](https://ffmpeg.org)
+
 Imagemagick * [`Here`](https://imagemagick.com)
+
 Git * [`Here`](https://git.com)
+
 
 ### Buka Cmd dan ketik ini
 ```bash
